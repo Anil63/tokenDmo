@@ -1,0 +1,38 @@
+.Register {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.f_res {
+  margin: 10px;
+  background-color: rgb(184, 183, 182);
+  padding: 10px;
+  width: 20vw;
+  border-radius: 5px;
+}
+
+.inpreg {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.tbnres {
+    margin: 10px;
+    display: flex ;
+    justify-content: center;
+
+}
+
+.tbn_sub{
+    background-color: rgb(186, 250, 250);
+    color: rgb(94, 91, 91);
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.tbn_sub:hover{
+    background-color: rgb(132, 255, 255);
+    color: rgb(54, 53, 53)
+}

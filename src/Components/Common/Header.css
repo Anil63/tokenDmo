@@ -1,0 +1,20 @@
+.nav_bar_link_logo{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+   width: 90px;
+}
+
+.nav_bar {
+  background-color: black;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav_bar_link{
+    text-decoration: none;
+    color: rgb(182, 184, 185);
+
+}
+

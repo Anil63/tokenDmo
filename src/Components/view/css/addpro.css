@@ -1,0 +1,25 @@
+.addmain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vw;
+}
+
+.addprotitle{
+    font-size: 3vw;
+}
+
+.addinp{
+    background-color: red;
+   background-color: rgb(182, 180, 177);
+    margin: 10px;
+    width: 20vw;
+    border-radius: 5px;
+}
+.addinps{
+    background: none;
+    border: none;
+    padding: 10px;
+    
+}
